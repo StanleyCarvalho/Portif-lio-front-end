@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Pagina de portifolio do Stanley Carvalho">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/response.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <link 
+        rel="stylesheet" 
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" 
+        integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" 
+        crossorigin="anonymous" 
+        referrerpolicy="no-referrer"
+    />
+    <link rel="shortcut icon" href="./assets/img/Stanley/favicon-32x32.png" type="image/x-icon">
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5853657215781602" crossorigin="anonymous"></script>
+    
+    <title>Portifólio Stanley</title>
+</head>
+<body>
+    <header>       
+            <div class="logo">
+                <img src="./assets/img/Stanley/logo.png" alt="logo do site">
+                <h1 class="logo-titulo"><a href="#inicio" class="logo-link">Portfólio <span>Front-end</span></a></h1>
+            </div>
+            <div id="menu-burger">
+                <span class="burger"></span>
+                <span class="burger"></span>
+                <span class="burger"></span>
+            </div>
+            <nav class="nav-hide">
+                <a href="#inicio">Inicio</a>
+                <a href="#sobre">Sobre</a>
+                <a href="#tecnologias">Especialidades</a>
+                <a href="#projetos">Projetos</a>
+            </nav>
+    </header>
+
+    <main>
+
+        <section class="inicio" id="inicio">
+            <article class="container">
+                <div class="hero-text">
+                    <p> Bem vindo, meu nome é </p>
+                    <h1> Stanley <span> Carvalho <span> </h1>
+                    <p> Analista e Dsenvolvedor de Sitemas</p>
+                    <p> ESTE É O MEU PORTIFÓLIO DE  <span> FRONT-END <span></p>
+                           
+                    <div class="social"> <!-- adicionado dinamicamente por js     -->  </div>
+                </div>
+            </article>
+        </section>
+
+        <section class="sobre" id="sobre">
+            <h2>Sobre mim</h2>
+            <article class="main">
+                <img src="./assets/img/Stanley/stanley.png" alt="">
+                <div class="sobre-mim">
+                    <h3> Desenvolvedor </h3>
+                    <p>
+                     Sou Stanley Carvalho, profissional de TI com experiência em Business Intelligence, desenvolvimento Java, Python, PHP e OutSystems, além de atuação em front-end, back-end e administração de bancos de dados 
+                     (MySQL, PostgreSQL, Oracle, SQL Server). Atualmente, sou Oficial do Exército Brasileiro e Chefe da Subseção de Tecnologia da Informação, liderando projetos de integração de sistemas, desenvolvimento de APIs 
+                     e dashboards analíticos com Power BI, SSRS e Report Builder, apoiando a tomada de decisão estratégica.
+                    </P>
+                    <p>
+                    Ao longo da minha trajetória, desenvolvi soluções como a API de controle de PNR do Exército, manutenção de sistemas de gestão de imóveis (SIGPIMA) e dashboards para a Diretoria de Patrimônio Imobiliário e 
+                    Meio Ambiente, incluindo relatórios paginados exigidos pelo TCU. Possuo experiência em integração de APIs REST/SOAP, processos ETL, suporte técnico, administração de sistemas e infraestrutura de redes, consolidando 
+                    competências em gestão de TI, segurança da informação e soluções tecnológicas integradas.
+                    </p>
+                    <p>
+                    Em Business Intelligence, desenvolvo dashboards e relatórios analíticos com Power BI, SSRS e processos ETL para suporte à tomada de decisão. Sou bacharel em Análise e 
+                    Desenvolvimento de Sistemas, com MBA em Gestão de TI Corporativa e Pós-Graduação em Administração de Banco de Dados e em Inteligência Artificial. Possuo certificações 
+                    em Business Intelligence, Business Model Canvas Essentials, Scrum, Lean Six Sigma White Belt, DevSecOps, Segurança em Linux, Scrum Foundation e Hacker Ético, além de 25 
+                    cursos livres voltados para a área de TI.
+
+                    </p>
+                    
+                </div>
+        
+            </article>
+        </section> 
+        <section class="tecnologias" id="tecnologias">
+
+            <h2> Especialidades </h2>
+
+            <article>
+                <div class="desenvolvimento">
+                    <h2>Desenvol<span>vimento</span></h2>
+                    <div class="tecnologias-icons" id="tecnologia1"> <!-- Icones adicionados dinamicamente pelo js --> </div>
+                </div>
+                
+                <div class="design">
+                    <h2>Desi<span>gn</span></h2>
+                
+                    <div class="tecnologias-icons" id="tecnologia2"> <!-- Icones adicionados dinamicamente pelo js --> </div>
+                </div>
+            </article>
+            
+        </section>
+
+       <div class="vasio"></div>
+   
+       <section class="projetos" id="projetos">
+        <h2>Projetos Front-end: Interfaces Responsivas e Dinâmicas</h2>
+        <article class="container-gallery">
+            <button class="arrow-left control" aria-label="Previous image">◀</button>
+            <button class="arrow-right control" aria-label="Next Image">▶</button>
+                <div class="gallery-wrapper">
+                    <div class="gallery">
+                        <div class="item current-item">
+                            <div class="projeto-card">
+                                <img src="./assets/img/projetos/To do list.png" alt="To do list">
+                                <p> Projeto lista de tarefas </p>
+                                <a href="https://stanleycarvalho.github.io/to-do-list/" target="_blank">Visite-nos</a>
+                            </div>
+                        </div>
+                        <div class="item current-item">
+                            <div class="projeto-card">
+                                <img src="./assets/img/projetos/prime.png" alt="Prime Video">
+                                <p> Projeto inspirado na interface do Prime Video. </p>
+                                <a href="https://stanleycarvalho.github.io/Prime-video/" target="_blank">Visite-nos</a>
+                            </div>
+                        </div>
+                        <div class="item current-item">
+                            <div class="projeto-card">
+                                <img src="./assets/img/projetos/kanboard.png" alt="Kanboard">
+                                <p> Kanboard é um sistema web de tarefas com drag e drop, edição inline e busca inteligente, usando HTML, CSS e JavaScript.</p>
+                                <a href="https://stanleycarvalho.github.io/Kanboard/" target="_blank">Visite-nos</a>
+                            </div>
+                        </div>
+                        <div class="item current-item">
+                            <div class="projeto-card">
+                                <img src="./assets/img/projetos/controle.png" alt="curso front end">
+                                <p> Dashboard interativo de usuários e vendas; exige execução local, feito com HTML, CSS, Bootstrap e JavaScript.</p>
+                                <a href="https://lucianolpsf.github.io/Curso-front-end/" target="_blank">Visite-nos</a>
+                            </div>
+                        </div>
+                        <div class="item current-item">
+                            <div class="projeto-card">
+                                <img src="./assets/img/projetos/pokedex.png" alt="Pokedex">
+                                <p> Projeto de desenvolvimento de um jogo interativo implementado com JavaScript e CSS. </p>
+                                <a href="https://stanleycarvalho.github.io/Jogo-pombo-correio/" target="_blank">Visite-nos</a>
+                            </div>
+                        </div>
+                        <div class="item current-item">
+                            <div class="projeto-card">
+                                <img src="./assets/img/projetos/breve.png" alt="Em breve">
+                                <p> Pagina destinada a novos projetos que estão no forno.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </article>
+        </section>
+        
+    </main>
+    <footer>
+        <h2> Stanley Carvalho  </h2>
+        <a href="https://github.com/StanleyCarvalho" target="_blank">Github</a>
+        <div class="social"> <!-- Icones adicionados dinamicamente pelo js --> </div>
+        <h3><small>midias sociais</small></h3>
+        
+    </footer>
+    
+    <script src="./assets/js/social.js"></script>
+    <script src="./assets/js/icons.js"></script>
+    <script src="./assets/js/carrossel.js"></script>
+    <script src="./assets/js/menu-burger.js"></script>
+</body>
+</html>

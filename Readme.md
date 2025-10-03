@@ -35,7 +35,7 @@ Acesse a pagina aqui!
     - [x] Formação academica.
     - [x] Redes sociais.
 
-   <a href="https://stanleycarvalho.github.io/Portif-lio-front-end/" target="_blank">
+   <a href="https://www.linkedin.com/in/stanley-carvalho-a1740829b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
    
 - [x] Stack de desenvolvimento

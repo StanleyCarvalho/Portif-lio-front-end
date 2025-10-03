@@ -57,7 +57,7 @@ Acesse a pagina aqui!
 
     <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
     <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-    <img align="center" alt="Gimp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+    <img align="center" alt="Corel" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/corel/corel-draw-svgrepo-com.svg">
     <img align="center" alt="Inkscape" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
     <img align="center" alt="Figma" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Darkt" height="40" width="40" src="https://stanleycarvalho.github.io/Portif-lio-front-end/assets/img/icons/Darktable.png">

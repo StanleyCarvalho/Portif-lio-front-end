@@ -42,11 +42,11 @@ Acesse a pagina aqui!
 
     <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="javascript" height="34" width="34" src="https://stanleycarvalho.github.io/Portif-lio-front-end/assets/img/icons/Javascript.png">
-    <img align="center" alt="bootstrap" height="40" width="40" src="https://stanleycarvalho.github.io/Portif-lio-front-end/assets/img/icons/Bootstrap.png">
+    <img align="center" alt="javascript" height="34" width="34" src="https://img.icons8.com/color/48/javascript--v1.png">
+    <img align="center" alt="bootstrap" height="40" width="40" src="https://img.icons8.com/color/48/bootstrap--v1.png">
     <img align="center" alt="mysql" height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="mariaDB" height="40" width="40" src="https://stanleycarvalho.github.io/Portif-lio-front-end/assets/img/icons/MariaDB.png">
-    <img align="center" alt="sql server" height="40" width="40" src="https://stanleycarvalho.github.io/Portif-lio-front-end/assets/img/icons/SQL%20Server.png">
+    <img align="center" alt="mariaDB" height="40" width="40" src="https://img.icons8.com/color/48/maria-db.png">
+    <img align="center" alt="sql server" height="40" width="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png">
     <img align="center" alt="linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="github" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
@@ -60,5 +60,5 @@ Acesse a pagina aqui!
     <img align="center" alt="Corel" height="45" width="45" src="https://img.icons8.com/color/48/coreldraw.png">
     <img align="center" alt="Inkscape" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg">
     <img align="center" alt="Figma" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img align="center" alt="Darkt" height="40" width="40" src="https://stanleycarvalho.github.io/Portif-lio-front-end/assets/img/icons/Darktable.png">
+    
 

@@ -9,7 +9,7 @@ Desta forma será possivel demonstrar conhecimento das mais diversas tecnologias
 
 Acesse a pagina aqui!
 
-<a href="https://stanleycarvalho.github.io/Portif-lio-front-end/" target="_blank">
+<a href="https://stanleycarvalho.github.io/portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=superuser&logoColor=white" target="_blank"/><a/>
 
  </div>

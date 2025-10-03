@@ -1,7 +1,7 @@
 const tecnologias = document.getElementById("tecnologia1");
 const design = document.getElementById("tecnologia2");
 
-const cursosTecnologia = ["Html 5","Css 3","Javascript","Bootstrap","Git","Github","Mysql","MariaDB","SQL Server","Docker","Python","Outsystems","PHP","Java"]
+const cursosTecnologia = ["Html 5","Css 3","Javascript","Bootstrap","Git","Github","Mysql","MariaDB","SQL Server","Docker","python","Outsystems","php","java"];
 const cursosDesign = ["Photoshop", "Illustrator", "Gimp", "Inkscape", "Darktable","Figma","Corel"];
 
 
